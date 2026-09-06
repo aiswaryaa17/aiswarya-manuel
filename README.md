@@ -34,13 +34,13 @@ and turning data into meaningful insights.
 
 ### 📊 Projects
 
-🚢 [Titanic Survival Prediction](YOUR_REPOSITORY_LINK)
-- Built a Logistic Regression model to predict passenger survival.
-- Performed data cleaning, preprocessing, EDA, and model evaluation.
+🚢 [Titanic Survival Prediction](https://github.com/aiswaryaa17/titanic-survival-prediction)
+- An ML project exploring passenger data to uncover survival patterns and predict survival outcomes 
+using Logistic Regression.
 
-❤️ [Heart Disease Prediction](YOUR_REPOSITORY_LINK)
-- Built a Logistic Regression model to predict heart disease.
-- Performed data preprocessing, exploratory data analysis, and model evaluation.
+❤️ [Heart Disease Prediction](https://github.com/aiswaryaa17/heart-disease-prediction)
+- Turned patient health data into predictions by exploring key health patterns, preparing the data, 
+and building a Logistic Regression model.
 
 ### 📜 Certifications & Simulations
 
